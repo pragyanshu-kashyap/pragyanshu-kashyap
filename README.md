@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @pragyanshu-kashyap
-- 👀 I’m interested in programming and ML
+- 👀 I’m interested in programming and Web development 
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking for collaboration 
 - 📫 Contact No:- 7488163728
 - 😄 Pronouns:- He/His
-- ⚡ Fun fact:- Everyone says programming is stressfull 
+- ⚡ Fun fact:- Everyone says programming is stressful 
 
 <!---
 pragyanshu-kashyap/pragyanshu-kashyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
