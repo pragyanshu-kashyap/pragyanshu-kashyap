@@ -8,7 +8,7 @@
 ---
 
 ### 💫 About Me
-- 🎓 Third-year Computer Science student at Heritage Institute of Technology  
+- 🎓 Fourth-year Computer Science student at Heritage Institute of Technology  
 - 💻 Passionate about **Web Development, IoT, and Blockchain**
 - 🌱 Currently learning **Solidity, Supabase, and Full-stack DApp Development**
 - 🛠️ Exploring **AI applications in Radio Communication & Smart Agriculture**
