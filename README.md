@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pragyanshu Kashyap</h1>
-<h3 align="center">A passionate Full stack Developer | ML Enthusiast | IoT Explorer</h3>
+<h3 align="center">A passionate Full stack Developer | Problem Solver | IoT Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pragyanshu-kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="pragyanshu-kashyap" />
@@ -11,7 +11,7 @@
 - 🎓 Fourth-year Computer Science student at Heritage Institute of Technology  
 - 💻 Passionate about **Web Development, IoT, and Blockchain**
 - 🌱 Currently learning **Solidity, Supabase, and Full-stack DApp Development**
-- 🛠️ Exploring **AI applications in Radio Communication & Smart Agriculture**
+- 🛠️ Exploring **AI applications in Radio Communication & Smart Agriculture** Regarding a final year project
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pragyanshu-kashyap/) 
 
 ---
